@@ -1,2 +1,2 @@
 # CodOpen
-Official GitHub repository for Mozilla Tech Club at Galgotias College of Engineering and Technology
+Official Page of Mozilla Campus Club - GCET
