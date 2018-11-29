@@ -11,7 +11,7 @@ Instructions :
   this list is just created to get to know people who are contributing to this repository.
 ```
 
-### 2. Contributors
+### Contributors
 
 | S.no | Name | Introduction | Contact |
 |------|:------|:--------------|:------------|
