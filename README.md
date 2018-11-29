@@ -1,2 +1,2 @@
 # CodOpen
-Official Page of Mozilla Campus Club - GCET
+Official Page of Mozilla Campus Club - GCET - https://codopen.github.io/
